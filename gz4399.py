@@ -112,7 +112,7 @@ if __name__ == '__main__':
         "domain": "csjs-cdnres.netfungame.com"
     }
     domain = "http://csjs-cdnres.netfungame.com"
-    paths = "/game/ios4399-cod/"
+    paths = "***"
 
     result = cdn_refresh(cfg, domain, paths)
     print("refresh result:", result)
